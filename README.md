@@ -17,10 +17,17 @@ This is a simple Pomodoro Timer built with React. It allows you to start, pause,
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/solomon-chi/pomodoroTimer.git
+    cd pomodoroTimer
     ```
 
+2.  Install dependencies:
+
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
 ### Running the Application
 
